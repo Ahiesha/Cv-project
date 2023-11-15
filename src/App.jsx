@@ -5,7 +5,9 @@ import "./styles/Cv.scss"
 function App() {
 
   return (
-      <Cv></Cv>
+      <Cv>
+        
+      </Cv>
 
   )
 }
